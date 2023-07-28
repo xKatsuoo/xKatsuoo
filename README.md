@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @xKatsuoo | Jason Krimmel
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript, Node.js, Express, React.
+- 💞️ I’m always looking for something new to learn everyday!
+- 📫 How to reach me via LinkedIn (Link in my github bio)
+- 🙏 I will try my best to keep everything up to date! 
