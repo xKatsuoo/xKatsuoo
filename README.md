@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/xkatsuoo" target="blank"><img src="https://img.shields.io/twitter/follow/xkatsuoo?logo=twitter&style=for-the-badge" alt="xkatsuoo" /></a> </p>
 
-- 🌱 I’m currently learning **React**
-
 - ⚡ Fun fact **All the skills listed below are only the ones I am currently learning and I am still far from being a master.**
 
 <h3 align="left">Connect with me:</h3>
