@@ -7,11 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/xkatsuoo" target="blank"><img src="https://img.shields.io/twitter/follow/xkatsuoo?logo=twitter&style=for-the-badge" alt="xkatsuoo" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](jasonkrimmel.com)
-
 - 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [jasonkrimmel.com](jasonkrimmel.com)
 
 - ⚡ Fun fact **All the skills listed below are only the ones I am currently learning and I am still far from being a master.**
 
