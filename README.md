@@ -1,5 +1,5 @@
 # 💫 About Me:
-🫡 Jason Krimmel | ✌️ 21 y/o | <br>🧑🏻‍💻aspiring DevOps Cloud Engineer | <br> 🙌🏻from Saarland, Germany |
+🫡 Jason Krimmel | ✌️ 21 y/o | <br>🧑🏻‍💻aspiring DevOps Engineer | <br> 🙌🏻from Saarland, Germany |
 
 [![](https://visitcount.itsvg.in/api?id=xKatsuoo&icon=0&color=6)](https://visitcount.itsvg.in)
 
